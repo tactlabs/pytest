@@ -1,55 +1,69 @@
 [
 {
-	"uri": "https://tactlabs.github.io/hugobase-new/",
+	"uri": "https://tactlabs.github.io/pytest/",
 	"title": "",
 	"tags": [],
 	"description": "",
 	"content": "TACTLABS "
 },
 {
-	"uri": "https://tactlabs.github.io/hugobase-new/python-note/python-addition/",
+	"uri": "https://tactlabs.github.io/pytest/py2-note/",
+	"title": "Py2-notes",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://tactlabs.github.io/pytest/py2-note/randomnumber/",
+	"title": "Random Number",
+	"tags": [],
+	"description": "-",
+	"content": "import random random.randint(2, 100) 64  "
+},
+{
+	"uri": "https://tactlabs.github.io/pytest/python-note/python-addition/",
 	"title": "Python Addition",
 	"tags": [],
 	"description": "-",
 	"content": "a = 5 b = 7 c = a + b print(c) 11  "
 },
 {
-	"uri": "https://tactlabs.github.io/hugobase-new/python-note/python-division/",
+	"uri": "https://tactlabs.github.io/pytest/python-note/python-division/",
 	"title": "Python Division",
 	"tags": [],
 	"description": "-",
 	"content": "a = 30 b = 6 c = a / b print(c) 5.0  "
 },
 {
-	"uri": "https://tactlabs.github.io/hugobase-new/python-note/",
+	"uri": "https://tactlabs.github.io/pytest/python-note/",
 	"title": "Python-notes",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://tactlabs.github.io/hugobase-new/python-note/simple-python/",
+	"uri": "https://tactlabs.github.io/pytest/python-note/simple-python/",
 	"title": "Simple Python",
 	"tags": [],
 	"description": "-",
 	"content": "print(\u0026#39;Hello Toronto\u0026#39;) Hello Toronto  print(2) 2  "
 },
 {
-	"uri": "https://tactlabs.github.io/hugobase-new/python-note/template/",
+	"uri": "https://tactlabs.github.io/pytest/python-note/template/",
 	"title": "Template",
 	"tags": [],
 	"description": "-",
 	"content": "print(\u0026#39;Hello Toronto\u0026#39;) Hello Toronto  print(2) 2  "
 },
 {
-	"uri": "https://tactlabs.github.io/hugobase-new/categories/",
+	"uri": "https://tactlabs.github.io/pytest/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://tactlabs.github.io/hugobase-new/tags/",
+	"uri": "https://tactlabs.github.io/pytest/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

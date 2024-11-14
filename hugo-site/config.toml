@@ -1,4 +1,4 @@
-baseURL = "https://tactlabs.github.io/hugobase-new/"
+baseURL = "https://tactlabs.github.io/pytest/"
 languageCode = "en-us"
 title = "TACT"
 theme = "hugo-theme-learn"
