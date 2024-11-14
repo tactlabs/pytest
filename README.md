@@ -18,6 +18,10 @@ Basic Template
 
 Site's html is in the master branch's `/docs` folder.
 
+## Available Themes:
+1. hugo-theme-learn
+2. berbera
+
 ## Note
 
 make.ipynb does not work on Windows
